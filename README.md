@@ -10,7 +10,17 @@
 
 ## 📂 폴더 구조
 
-alzheimers_visual_project/ │ ├── Alzheimer_김영혜.ipynb # 메인 분석 노트북 ├── utils.py # 컬러팔레트 및 유틸 함수 ├── AD.txt # 데이터 설명 텍스트 ├── README.md # 프로젝트 설명 파일 │ └── DATA_AD/ ├── alzheimer.csv ├── alzheimers_disease_data.csv └── nep499.csv
+```
+alzheimers_visual_project/
+├── Alzheimer_김영혜.ipynb           # 메인 분석 노트북
+├── utils.py                        # 컬러팔레트 및 유틸 함수
+├── AD.txt                          # 데이터 설명 텍스트
+├── README.md                       # 프로젝트 설명 파일
+└── DATA_AD/                        # 데이터 폴더
+    ├── alzheimer.csv
+    ├── alzheimers_disease_data.csv
+    └── nep499.csv
+```
 
 ---
 
